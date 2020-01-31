@@ -1,0 +1,36 @@
+ebook_metadata:
+  title: ༄༅། །རང་གཞན་ཐམས་ཅད་འཚེངས་པའི་གདམས་ངག་གསེར་གྱི་རི་བོ་ཞེས་བྱ་བ་བཞུགས་སོ། །
+  authors:
+  - མཛད་པ་པོ། ཞབས་དཀར་ཚོགས་དྲུག་རང་གྲོལ།
+  sku: SHE-SHAP-18
+  layers:
+  - book_title
+  - author
+  - quotation
+  - yigchung
+web_metadata:
+  title:
+    en: The Mountain of Gold:Fulfilling Profound Instructions
+    bo: རང་གཞན་ཐམས་ཅད་འཚེངས་པའི་གདམས་ངག་གསེར་གྱི་རི་བོ་ཞེས་བྱ་བ་བཞུགས་སོ།
+  collection:
+    en: Shabkar Series–  Book 18
+    bo: ཞབས་དཀར་གསུང་འབུམ།–  དེབ། ༡༨
+  author:
+    en: Shabkar Tsokdruk Rangdrol
+    bo: ཞབས་དཀར་ཚོགས་དྲུག་རང་གྲོལ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-SHAP-18
+  category:
+    en: Uncategorized
+    bo: Uncategorized @tib
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-SHAP-18.epub
+  description:
+    en: ''
+    bo: ''
