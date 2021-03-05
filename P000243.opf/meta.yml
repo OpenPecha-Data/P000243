@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000243
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །རང་གཞན་ཐམས་ཅད་འཚེངས་པའི་གདམས་ངག་གསེར་གྱི་རི་བོ་ཞེས་བྱ་བ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། ཞབས་དཀར་ཚོགས་དྲུག་རང་གྲོལ།
-  sku: SHE-SHAP-18
   layers:
   - book_title
   - author
   - quotation
   - yigchung
+  id: SHE-SHAP-18
 web_metadata:
   title:
     en: The Mountain of Gold:Fulfilling Profound Instructions
